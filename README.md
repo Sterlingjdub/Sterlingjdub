@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey everbody! 👋
+
+My name is Sterling and currently I'm a Senior at Brigham Young Univeristy-Idaho working towards my Bachelors in Web Development.
+This repository is currently a work in progress, so come back at any time to learn about some of the things that I'm working on 😄
 
 <!--
 **Sterlingjdub/Sterlingjdub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
